@@ -1,0 +1,69 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// @import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900|Londrina+Outline|Waiting+for+the+Sunrise');
+
+// @import url('/fonts/Londrina_Outline/LondrinaOutline-Regular.ttf');
+
+@font-face {
+  font-family: "Waiting for the Sunrise";
+  src: url("/assets/fonts/Waiting_for_the_Sunrise/WaitingForTheSunrise.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "Londrina Outline";
+  src: url("/assets/fonts/Londrina_Outline/LondrinaOutline-Regular.ttf") format("opentype");
+}
+
+.site-title {
+    font-family: "Waiting for the Sunrise";
+    font-size: 62px;
+    margin-top: 18px;
+}
+
+.site-title:hover {
+    text-decoration: none;
+}
+
+.post-list > li {
+    margin-bottom: 0px;
+}
+
+.post-link-container {
+    background-size: cover;
+    background-position: left center;
+    margin-bottom: 20px;
+}
+
+.post-link {
+    // font-family: sans-serif; // TODO that curly font
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    padding-top: 50px;
+    background: #f9f9f988;
+    font-size: 18px;
+    color: #3c3c3c;
+}
+
+.post-link:hover {
+    text-decoration: none;
+    background-blend-mode: normal;
+    background: #f9f9f900;
+}
+
+.post-link-inner {
+    padding: 10px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background: #f9f9f988; //background: #f9f9f900; TODO: add active class
+}
+
+.post-link-inner:hover {
+    background: #f9f9f9b3;
+}
+
