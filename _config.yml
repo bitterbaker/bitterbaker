@@ -16,8 +16,8 @@
 title: bitter baker
 email: dylanholmes206@gmail.com
 description: bread recipes, sourdough starters, blog, tips &amp; tricks
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://bitterbaker.com
+baseurl: "/bitterbaker/" # the subpath of your site, e.g. /blog
+url: "https://bitterbaker.github.io"
 name: bitterbaker
 twitter_username: jekyllrb
 github_username:  jekyll
