@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:17246;i:1;i:19493;}'
-image: /wp-content/uploads/2013/07/sourdough-white-loaf5foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/sourdough-white-loaf5foodgawker.jpg
 categories:
   - blog
 tags:

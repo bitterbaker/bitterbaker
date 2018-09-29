@@ -12,7 +12,7 @@ openid_comments:
   - 'a:5:{i:0;i:1869;i:1;i:1886;i:2;i:1937;i:3;i:1952;i:4;i:2026;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/05/rosemary-sundriedtomatoes-herbs-olives-and-red-onion-focaccias9foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/rosemary-sundriedtomatoes-herbs-olives-and-red-onion-focaccias9foodgawker.jpg
 categories:
   - blog
 tags:

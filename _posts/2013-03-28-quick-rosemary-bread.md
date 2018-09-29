@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1247
 permalink: /quick-rosemary-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/03/rosemary-easter-bread5-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/rosemary-easter-bread5-624x414.jpg
 categories:
   - recipes
 ---

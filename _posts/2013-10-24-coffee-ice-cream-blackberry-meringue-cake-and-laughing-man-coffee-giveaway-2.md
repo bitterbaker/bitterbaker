@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:8:{i:0;i:33845;i:1;i:33852;i:2;i:33982;i:3;i:34016;i:4;i:34018;i:5;i:34072;i:6;i:34286;i:7;i:34569;}'
-image: /wp-content/uploads/2013/10/coffee-icrecream-blackberry-meringue-cake5foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/coffee-icrecream-blackberry-meringue-cake5foodgawker.jpg
 categories:
   - blog
 tags:

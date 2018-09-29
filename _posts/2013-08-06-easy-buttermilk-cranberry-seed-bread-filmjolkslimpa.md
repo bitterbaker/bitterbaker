@@ -12,7 +12,7 @@ openid_comments:
   - 'a:6:{i:0;i:12147;i:1;i:12311;i:2;i:12390;i:3;i:12439;i:4;i:12452;i:5;i:12510;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/08/easy-buttermilk-cranberry-seed-bread6foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/easy-buttermilk-cranberry-seed-bread6foodgawker.jpg
 categories:
   - blog
 tags:

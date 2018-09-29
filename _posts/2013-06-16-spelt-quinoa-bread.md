@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1504
 permalink: /spelt-quinoa-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/05/spelt-flour-and-red-quinoa-bread4foodgawker-624x627.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/spelt-flour-and-red-quinoa-bread4foodgawker-624x627.jpg
 categories:
   - recipes
 ---

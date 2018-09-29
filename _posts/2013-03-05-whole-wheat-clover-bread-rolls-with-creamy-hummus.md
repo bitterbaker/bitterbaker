@@ -12,7 +12,7 @@ openid_comments:
   - 'a:1:{i:0;i:498;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/wholewheat-clover-roll3foodgawker-624x631.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/wholewheat-clover-roll3foodgawker-624x631.jpg
 categories:
   - blog
 tags:

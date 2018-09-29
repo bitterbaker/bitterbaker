@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:4:{i:0;i:1496;i:1;i:1505;i:2;i:1572;i:3;i:1626;}'
-image: /wp-content/uploads/2013/04/gerstenbrot-dark-flamed-sourdough-bread4foodgawker-624x624.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/04/gerstenbrot-dark-flamed-sourdough-bread4foodgawker-624x624.jpg
 categories:
   - blog
 tags:

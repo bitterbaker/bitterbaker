@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=611
 permalink: /caraway-rye-loaves/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/carawayminiloaf.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/carawayminiloaf.jpg
 categories:
   - recipes
 ---

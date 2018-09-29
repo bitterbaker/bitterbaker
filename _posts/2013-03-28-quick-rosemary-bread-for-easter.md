@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:670;i:1;i:732;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/rosemary-easter-bread5-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/rosemary-easter-bread5-624x414.jpg
 categories:
   - blog
 tags:

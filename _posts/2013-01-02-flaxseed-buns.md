@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=143
 permalink: /flaxseed-buns/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/normalbuns-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/normalbuns-624x414.jpg
 categories:
   - recipes
 ---

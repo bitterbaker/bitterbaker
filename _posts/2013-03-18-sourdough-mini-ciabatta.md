@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1200
 permalink: /sourdough-mini-ciabatta/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/03/mini-sourdough-ciabatta1-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/mini-sourdough-ciabatta1-624x414.jpg
 categories:
   - recipes
 ---

@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:1356;i:1;i:1402;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/white-sourdough-baguettes1-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/white-sourdough-baguettes1-624x414.jpg
 categories:
   - blog
 tags:

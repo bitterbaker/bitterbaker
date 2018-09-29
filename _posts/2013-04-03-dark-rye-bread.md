@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1269
 permalink: /dark-rye-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/03/dark-rye-bread2-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/dark-rye-bread2-624x414.jpg
 categories:
   - recipes
 ---

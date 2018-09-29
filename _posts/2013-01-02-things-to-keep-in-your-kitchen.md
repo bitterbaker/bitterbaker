@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=200
 permalink: /things-to-keep-in-your-kitchen/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/apple-caraway-bread-recipe2-624x507.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/apple-caraway-bread-recipe2-624x507.jpg
 categories:
   - blog
   - 'tips&amp;tricks'

@@ -12,7 +12,7 @@ openid_comments:
   - 'a:7:{i:0;i:436;i:1;i:438;i:2;i:441;i:3;i:469;i:4;i:492;i:5;i:537;i:6;i:46573;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/sourdough-croissants-recipe2-624x878.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/sourdough-croissants-recipe2-624x878.jpg
 categories:
   - blog
 tags:

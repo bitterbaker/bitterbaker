@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1823
 permalink: /coconut-cilantro-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/10/coconut-cilantro-spelt-bread1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/coconut-cilantro-spelt-bread1foodgawker.jpg
 categories:
   - recipes
 ---

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1705
 permalink: /hazelnut-raisin-coconut-granola-2/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/08/hazelnut-raisin-cocounut-granola2foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/hazelnut-raisin-cocounut-granola2foodgawker.jpg
 categories:
   - recipes
 ---

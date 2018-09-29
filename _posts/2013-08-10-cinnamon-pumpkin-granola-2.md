@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1679
 permalink: /cinnamon-pumpkin-granola-2/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/07/cinnamon-pumpkin-granola6foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/cinnamon-pumpkin-granola6foodgawker.jpg
 categories:
   - recipes
 ---

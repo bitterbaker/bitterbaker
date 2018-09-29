@@ -12,7 +12,7 @@ openid_comments:
   - 'a:1:{i:0;i:704;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/rosemary-goat-cheese-crackers4-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/rosemary-goat-cheese-crackers4-624x414.jpg
 categories:
   - blog
 tags:

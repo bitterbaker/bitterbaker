@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:1:{i:0;i:38720;}'
-image: /wp-content/uploads/2013/01/baguettes-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/01/baguettes-624x414.jpg
 categories:
   - blog
 tags:

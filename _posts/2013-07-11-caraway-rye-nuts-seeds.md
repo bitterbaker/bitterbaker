@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1417
 permalink: /caraway-rye-nuts-seeds/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/04/caraway-rye-bread-with-seeds-and-nuts2foodgawker-624x623.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/04/caraway-rye-bread-with-seeds-and-nuts2foodgawker-624x623.jpg
 categories:
   - recipes
 ---

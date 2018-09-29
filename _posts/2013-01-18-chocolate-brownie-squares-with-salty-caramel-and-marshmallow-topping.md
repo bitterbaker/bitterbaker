@@ -12,7 +12,7 @@ xcp_optin_post:
   - ""
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/brownie3.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/brownie3.jpg
 categories:
   - blog
 tags:

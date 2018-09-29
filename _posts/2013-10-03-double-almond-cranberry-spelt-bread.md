@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:29100;i:1;i:29755;}'
-image: /wp-content/uploads/2013/08/double-almond-cranberry-spelt-breadfoodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/double-almond-cranberry-spelt-breadfoodgawker.jpg
 categories:
   - blog
 tags:

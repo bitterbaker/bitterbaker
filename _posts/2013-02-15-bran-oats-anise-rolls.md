@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=930
 permalink: /bran-oats-anise-rolls/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/oats-wheatbran-rolls-recipe-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/oats-wheatbran-rolls-recipe-624x939.jpg
 categories:
   - recipes
 ---

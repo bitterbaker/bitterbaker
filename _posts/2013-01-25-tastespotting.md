@@ -10,7 +10,7 @@ openid_comments:
   - 'a:4:{i:0;i:159;i:1;i:174;i:2;i:210;i:3;i:212;}'
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/rosemary.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/rosemary.jpg
 categories:
   - blog
 tags:

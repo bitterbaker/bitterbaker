@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:2861;i:1;i:3026;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/05/healthy-homemade-granola-with-gingerbread-spices1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/healthy-homemade-granola-with-gingerbread-spices1foodgawker.jpg
 categories:
   - blog
 tags:

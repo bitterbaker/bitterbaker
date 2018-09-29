@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=127
 permalink: /garlic-muffin-tops-and-mini-loaves/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/muffin-tops.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/muffin-tops.jpg
 categories:
   - blog
 tags:

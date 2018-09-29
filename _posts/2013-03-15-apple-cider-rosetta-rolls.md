@@ -12,7 +12,7 @@ openid_comments:
   - 'a:3:{i:0;i:588;i:1;i:611;i:2;i:8954;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/applecider-rosetta-rolls2foodgawjer-624x632.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/applecider-rosetta-rolls2foodgawjer-624x632.jpg
 categories:
   - blog
 tags:

@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/sundriedgrissini.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/sundriedgrissini.jpg
 categories:
   - blog
 tags:

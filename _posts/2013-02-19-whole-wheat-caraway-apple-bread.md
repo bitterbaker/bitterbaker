@@ -12,7 +12,7 @@ openid_comments:
   - 'a:5:{i:0;i:387;i:1;i:389;i:2;i:411;i:3;i:457;i:4;i:8959;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/apple-caraway-bread-recipe2-624x507.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/apple-caraway-bread-recipe2-624x507.jpg
 categories:
   - blog
 tags:

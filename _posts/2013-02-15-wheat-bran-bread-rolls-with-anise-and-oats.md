@@ -12,7 +12,7 @@ openid_comments:
   - 'a:5:{i:0;i:344;i:1;i:346;i:2;i:364;i:3;i:371;i:4;i:381;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/02/oats-wheatbran-rolls-recipe-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/oats-wheatbran-rolls-recipe-624x939.jpg
 categories:
   - blog
 tags:

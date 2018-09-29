@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:24595;i:1;i:24866;i:2;i:26052;}'
-image: /wp-content/uploads/2013/07/rye-crispbread-with-pumpkin-seeds-flaxseed-and-anise-seeds4foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/rye-crispbread-with-pumpkin-seeds-flaxseed-and-anise-seeds4foodgawker.jpg
 categories:
   - blog
 tags:

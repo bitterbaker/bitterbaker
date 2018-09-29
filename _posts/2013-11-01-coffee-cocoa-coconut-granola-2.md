@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1847
 permalink: /coffee-cocoa-coconut-granola-2/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/10/coffee-cocoa-coconut-granola3foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/coffee-cocoa-coconut-granola3foodgawker.jpg
 categories:
   - recipes
 ---

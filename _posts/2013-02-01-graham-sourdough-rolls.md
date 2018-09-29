@@ -12,7 +12,7 @@ featured:
   - "1"
 openid_comments:
   - 'a:1:{i:0;i:741;}'
-image: /wp-content/uploads/2013/02/graham3.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/graham3.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1720
 permalink: /buttermilk-cranberry-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/08/easy-buttermilk-cranberry-seed-bread6foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/easy-buttermilk-cranberry-seed-bread6foodgawker.jpg
 categories:
   - recipes
 ---

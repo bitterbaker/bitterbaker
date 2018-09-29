@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1528
 permalink: /rosemary-onion-pepper-grissini/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/05/rosemary-sweet-onion-and-black-pepper-grissinis1foodgawker-624x625.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/rosemary-sweet-onion-and-black-pepper-grissinis1foodgawker-624x625.jpg
 categories:
   - recipes
 ---

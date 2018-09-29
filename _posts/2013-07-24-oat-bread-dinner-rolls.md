@@ -12,7 +12,7 @@ openid_comments:
   - 'a:6:{i:0;i:8980;i:1;i:9059;i:2;i:9127;i:3;i:9385;i:4;i:9449;i:5;i:10484;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/07/oat-bread-dinner-rolls7foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/oat-bread-dinner-rolls7foodgawker.jpg
 categories:
   - blog
 tags:

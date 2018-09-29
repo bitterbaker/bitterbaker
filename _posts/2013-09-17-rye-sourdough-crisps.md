@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1598
 permalink: /rye-sourdough-crisps/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/07/rye-crispbread-with-pumpkin-seeds-flaxseed-and-anise-seeds4foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/rye-crispbread-with-pumpkin-seeds-flaxseed-and-anise-seeds4foodgawker.jpg
 categories:
   - recipes
 ---

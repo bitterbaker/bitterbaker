@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:32390;i:1;i:33111;}'
-image: /wp-content/uploads/2013/07/easy-buttermilk-loaf-with-nuts-and-seeds6foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/easy-buttermilk-loaf-with-nuts-and-seeds6foodgawker.jpg
 categories:
   - blog
 tags:

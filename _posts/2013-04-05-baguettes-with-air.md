@@ -12,7 +12,7 @@ openid_comments:
   - 'a:4:{i:0;i:747;i:1;i:765;i:2;i:807;i:3;i:809;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/baguettes-with-air2-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/baguettes-with-air2-624x414.jpg
 categories:
   - blog
 tags:

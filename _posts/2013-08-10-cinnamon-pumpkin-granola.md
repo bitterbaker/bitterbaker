@@ -12,7 +12,7 @@ openid_comments:
   - 'a:5:{i:0;i:13297;i:1;i:13674;i:2;i:13826;i:3;i:14122;i:4;i:14131;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/07/cinnamon-pumpkin-granola6foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/cinnamon-pumpkin-granola6foodgawker.jpg
 categories:
   - blog
 tags:

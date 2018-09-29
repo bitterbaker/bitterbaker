@@ -10,7 +10,7 @@ openid_comments:
   - 'a:2:{i:0;i:215;i:1;i:221;}'
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/01/semolinasourdoughroll1.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/01/semolinasourdoughroll1.jpg
 categories:
   - blog
 tags:

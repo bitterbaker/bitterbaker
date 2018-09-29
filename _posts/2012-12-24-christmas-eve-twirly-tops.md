@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=4
 permalink: /christmas-eve-twirly-tops/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/muffintops-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/muffintops-624x414.jpg
 categories:
   - blog
 tags:

@@ -12,7 +12,7 @@ openid_comments:
   - 'a:5:{i:0;i:1532;i:1;i:1554;i:2;i:1623;i:3;i:1634;i:4;i:1635;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/04/english-muffins4foodgawker-624x625.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/04/english-muffins4foodgawker-624x625.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1180
 permalink: /creamy-hummus/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/03/hummus-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/hummus-624x939.jpg
 categories:
   - recipes
 ---

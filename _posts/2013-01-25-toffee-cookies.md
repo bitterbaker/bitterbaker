@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=588
 permalink: /toffee-cookies/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/toffeecookies2-624x486.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/toffeecookies2-624x486.jpg
 categories:
   - blog
 tags:

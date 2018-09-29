@@ -12,7 +12,7 @@ featured:
   - "1"
 openid_comments:
   - 'a:4:{i:0;i:19182;i:1;i:20132;i:2;i:21082;i:3;i:21750;}'
-image: /wp-content/uploads/2013/03/dark-rye-bread2-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/dark-rye-bread2-624x414.jpg
 categories:
   - blog
 tags:

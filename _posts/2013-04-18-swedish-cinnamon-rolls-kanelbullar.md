@@ -12,7 +12,7 @@ openid_comments:
   - 'a:9:{i:0;i:1039;i:1;i:1061;i:2;i:1077;i:3;i:1096;i:4;i:1101;i:5;i:1112;i:6;i:1427;i:7;i:1632;i:8;i:8765;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/swedish-cinnamon-buns5-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/swedish-cinnamon-buns5-624x939.jpg
 categories:
   - blog
 tags:

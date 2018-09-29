@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=530
 permalink: /mocha-love-munchies-2/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/lovemunchies2-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/lovemunchies2-624x414.jpg
 categories:
   - recipes
 ---

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=728
 permalink: /whole-wheat-rice-bread/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/riceloaf3-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/riceloaf3-624x414.jpg
 categories:
   - blog
 tags:

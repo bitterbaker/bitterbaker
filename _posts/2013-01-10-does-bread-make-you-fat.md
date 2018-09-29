@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=53
 permalink: /does-bread-make-you-fat/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/graham3.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/graham3.jpg
 categories:
   - blog
 tags:

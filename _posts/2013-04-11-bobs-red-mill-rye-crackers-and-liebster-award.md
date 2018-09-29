@@ -12,7 +12,7 @@ openid_comments:
   - 'a:6:{i:0;i:879;i:1;i:895;i:2;i:915;i:3;i:1012;i:4;i:1457;i:5;i:1495;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/04/bobs-red-mill-rye-crackers2foodgawker-624x626.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/04/bobs-red-mill-rye-crackers2foodgawker-624x626.jpg
 categories:
   - blog
 tags:

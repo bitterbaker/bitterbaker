@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:30727;i:1;i:30749;}'
-image: /wp-content/uploads/2013/08/hazelnut-raisin-cocounut-granola2foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/hazelnut-raisin-cocounut-granola2foodgawker.jpg
 categories:
   - blog
 tags:

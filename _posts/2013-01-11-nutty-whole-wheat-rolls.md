@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=436
 permalink: /nutty-whole-wheat-rolls/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/nuttyserving-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/nuttyserving-624x414.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=517
 permalink: /chili-garlic-tomato-grissini/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/02/sundriedgrissini.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/02/sundriedgrissini.jpg
 categories:
   - recipes
 ---

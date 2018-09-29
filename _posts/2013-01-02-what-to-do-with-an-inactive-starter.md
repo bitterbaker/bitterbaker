@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=208
 permalink: /what-to-do-with-an-inactive-starter/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/01/ryestep1-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/01/ryestep1-624x414.jpg
 categories:
   - blog
   - Sourdough Starters

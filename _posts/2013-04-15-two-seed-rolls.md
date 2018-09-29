@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1258
 permalink: /two-seed-rolls/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/03/two-seed-dinner-rolls1-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/two-seed-dinner-rolls1-624x939.jpg
 categories:
   - recipes
 ---

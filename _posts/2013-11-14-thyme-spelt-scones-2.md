@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:40975;i:1;i:41307;i:2;i:41500;}'
-image: /wp-content/uploads/2013/10/thyme-spelt-scones1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/thyme-spelt-scones1foodgawker.jpg
 categories:
   - blog
 tags:

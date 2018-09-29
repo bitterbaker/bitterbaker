@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1904
 permalink: /saffron-biscotti/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/12/saffron-biscotti3foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/12/saffron-biscotti3foodgawker.jpg
 categories:
   - recipes
 ---

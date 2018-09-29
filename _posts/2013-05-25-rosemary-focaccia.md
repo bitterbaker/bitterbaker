@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1521
 permalink: /rosemary-focaccia/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/05/rosemary-sundriedtomatoes-herbs-olives-and-red-onion-focaccias5foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/rosemary-sundriedtomatoes-herbs-olives-and-red-onion-focaccias5foodgawker.jpg
 categories:
   - recipes
 ---

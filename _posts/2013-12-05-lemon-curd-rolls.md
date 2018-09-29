@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1837
 permalink: /lemon-curd-rolls/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/10/lemon-curd-filled-sugar-rolls1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/lemon-curd-filled-sugar-rolls1foodgawker.jpg
 categories:
   - recipes
 ---

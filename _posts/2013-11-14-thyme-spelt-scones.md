@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1810
 permalink: /thyme-spelt-scones/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/10/thyme-spelt-scones1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/thyme-spelt-scones1foodgawker.jpg
 categories:
   - recipes
 ---

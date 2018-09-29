@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1497
 permalink: /gingerbread-granola/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/05/healthy-homemade-granola-with-gingerbread-spices1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/healthy-homemade-granola-with-gingerbread-spices1foodgawker.jpg
 categories:
   - recipes
 ---

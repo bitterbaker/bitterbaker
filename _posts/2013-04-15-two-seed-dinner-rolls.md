@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:947;i:1;i:1011;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/two-seed-dinner-rolls1-624x939.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/two-seed-dinner-rolls1-624x939.jpg
 categories:
   - blog
 tags:

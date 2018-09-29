@@ -12,7 +12,7 @@ openid_comments:
   - 'a:3:{i:0;i:1804;i:1;i:2012;i:2;i:2118;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/04/five-cheese-pizza-bread3foodgawker-624x632.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/04/five-cheese-pizza-bread3foodgawker-624x632.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1725
 permalink: /almond-cranberry-loaf/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/08/double-almond-cranberry-spelt-breadfoodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/08/double-almond-cranberry-spelt-breadfoodgawker.jpg
 categories:
   - recipes
 ---

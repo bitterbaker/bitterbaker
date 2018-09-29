@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:4:{i:0;i:22927;i:1;i:23173;i:2;i:24657;i:3;i:34431;}'
-image: /wp-content/uploads/2013/07/rye-bread-with-coffee-and-molasses3foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/07/rye-bread-with-coffee-and-molasses3foodgawker.jpg
 categories:
   - blog
 tags:

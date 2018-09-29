@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1827
 permalink: /rye-onion-bread-2/
 xcp_optin_post:
   - ""
-image: /wp-content/uploads/2013/10/bobs-red-mill-rye-onion-bread1foodgawker.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/10/bobs-red-mill-rye-onion-bread1foodgawker.jpg
 categories:
   - recipes
 ---

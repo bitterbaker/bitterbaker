@@ -12,7 +12,7 @@ openid_comments:
   - 'a:6:{i:0;i:3483;i:1;i:3488;i:2;i:4058;i:3;i:4856;i:4;i:4859;i:5;i:5544;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/05/spelt-flour-and-red-quinoa-bread4foodgawker-624x627.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/05/spelt-flour-and-red-quinoa-bread4foodgawker-624x627.jpg
 categories:
   - blog
 tags:

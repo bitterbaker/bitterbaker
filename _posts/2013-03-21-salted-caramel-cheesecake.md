@@ -12,7 +12,7 @@ openid_comments:
   - 'a:4:{i:0;i:633;i:1;i:635;i:2;i:646;i:3;i:658;}'
 featured:
   - "1"
-image: /wp-content/uploads/2013/03/salted-caramel-cheesecake5-624x414.jpg
+image: {{ site.baseurl }}/wp-content/uploads/2013/03/salted-caramel-cheesecake5-624x414.jpg
 categories:
   - blog
 tags:
