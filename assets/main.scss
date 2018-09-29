@@ -10,12 +10,12 @@
 
 @font-face {
   font-family: "Waiting for the Sunrise";
-  src: url("/assets/fonts/Waiting_for_the_Sunrise/WaitingForTheSunrise.ttf") format("opentype");
+  src: url("{{ '/assets/fonts/Waiting_for_the_Sunrise/WaitingForTheSunrise.ttf' | relative_url }}") format("opentype");
 }
 
 @font-face {
   font-family: "Londrina Outline";
-  src: url("/assets/fonts/Londrina_Outline/LondrinaOutline-Regular.ttf") format("opentype");
+  src: url("{{ '/assets/fonts/Londrina_Outline/LondrinaOutline-Regular.ttf' | relative_url }}") format("opentype");
 }
 
 .site-title {
