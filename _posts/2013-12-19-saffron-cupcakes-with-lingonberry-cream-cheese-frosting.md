@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:61971;i:1;i:62690;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/12/saffron-cupcakes-lingonberry-frosting2foodgawker.jpg
+image: /wp-content/uploads/2013/12/saffron-cupcakes-lingonberry-frosting2foodgawker.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=479
 permalink: /garlic-and-fennel-grissini/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/fennelgarlicgrissini-624x414.jpg
+image: /wp-content/uploads/2013/02/fennelgarlicgrissini-624x414.jpg
 categories:
   - blog
 tags:

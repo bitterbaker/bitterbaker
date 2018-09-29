@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1574
 permalink: /pesto-mozzarella-rolls/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/red-pesto-mozzarella-savory-dinner-rolls6foodgawker.jpg
+image: /wp-content/uploads/2013/07/red-pesto-mozzarella-savory-dinner-rolls6foodgawker.jpg
 categories:
   - recipes
 ---

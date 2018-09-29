@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:4:{i:0;i:6356;i:1;i:6452;i:2;i:7448;i:3;i:8834;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/caraway-rye-bread-with-seeds-and-nuts2foodgawker-624x623.jpg
+image: /wp-content/uploads/2013/04/caraway-rye-bread-with-seeds-and-nuts2foodgawker-624x623.jpg
 categories:
   - blog
 tags:

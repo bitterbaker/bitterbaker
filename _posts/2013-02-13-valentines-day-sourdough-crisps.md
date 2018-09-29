@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:342;i:1;i:365;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/heartshaped-sourdough-crispbread-624x414.jpg
+image: /wp-content/uploads/2013/02/heartshaped-sourdough-crispbread-624x414.jpg
 categories:
   - blog
 tags:

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1632
 permalink: /coffee-rye-bread/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/rye-bread-with-coffee-and-molasses3foodgawker.jpg
+image: /wp-content/uploads/2013/07/rye-bread-with-coffee-and-molasses3foodgawker.jpg
 categories:
   - recipes
 ---

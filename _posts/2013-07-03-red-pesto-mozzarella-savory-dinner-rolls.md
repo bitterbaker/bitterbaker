@@ -12,7 +12,7 @@ openid_comments:
   - 'a:4:{i:0;i:5284;i:1;i:5823;i:2;i:6022;i:3;i:6079;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/red-pesto-mozzarella-savory-dinner-rolls6foodgawker.jpg
+image: /wp-content/uploads/2013/07/red-pesto-mozzarella-savory-dinner-rolls6foodgawker.jpg
 categories:
   - blog
 ---

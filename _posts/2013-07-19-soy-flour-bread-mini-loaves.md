@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:6:{i:0;i:8090;i:1;i:8429;i:2;i:8691;i:3;i:8713;i:4;i:8763;i:5;i:9600;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/soy-flour-bread-mini-loaves4foodgawker.jpg
+image: /wp-content/uploads/2013/07/soy-flour-bread-mini-loaves4foodgawker.jpg
 categories:
   - blog
 tags:

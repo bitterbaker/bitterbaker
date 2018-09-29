@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1666
 permalink: /whole-wheat-braids/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/whole-wheat-sourdough-braids4foodgawker.jpg
+image: /wp-content/uploads/2013/07/whole-wheat-sourdough-braids4foodgawker.jpg
 categories:
   - recipes
 ---

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1589
 permalink: /soy-flour-loaves/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/soy-flour-bread-mini-loaves4foodgawker.jpg
+image: /wp-content/uploads/2013/07/soy-flour-bread-mini-loaves4foodgawker.jpg
 categories:
   - recipes
 ---

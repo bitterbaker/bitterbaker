@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:26960;i:1;i:27380;i:2;i:35216;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/spelt-flour-sourdough-baguettes4foodgawker.jpg
+image: /wp-content/uploads/2013/07/spelt-flour-sourdough-baguettes4foodgawker.jpg
 categories:
   - blog
 tags:

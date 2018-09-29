@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1125
 permalink: /how-to-make-croissants/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/sourdough-croissants-recipe2-624x878.jpg
+image: /wp-content/uploads/2013/02/sourdough-croissants-recipe2-624x878.jpg
 categories:
   - blog
   - Easy Style It

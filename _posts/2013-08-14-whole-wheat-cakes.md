@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1617
 permalink: /whole-wheat-cakes/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/caraway-anise-fennel-whole-wheat-bread-cakes4foodgawker.jpg
+image: /wp-content/uploads/2013/07/caraway-anise-fennel-whole-wheat-bread-cakes4foodgawker.jpg
 categories:
   - recipes
 ---

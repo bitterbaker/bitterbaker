@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=787
 permalink: /graham-sourdough-rolls-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/graham3.jpg
+image: /wp-content/uploads/2013/02/graham3.jpg
 categories:
   - recipes
 ---

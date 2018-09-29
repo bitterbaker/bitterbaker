@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=160
 permalink: /fennel-anise-molasses/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/anisefennelmolasses-624x414.jpg
+image: /wp-content/uploads/2013/01/anisefennelmolasses-624x414.jpg
 categories:
   - blog
 tags:

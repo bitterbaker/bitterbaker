@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=501
 permalink: /rosemary-grissinis/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/rosemary.jpg
+image: /wp-content/uploads/2013/02/rosemary.jpg
 categories:
   - recipes
 ---

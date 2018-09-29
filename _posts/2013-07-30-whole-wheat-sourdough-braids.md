@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:4:{i:0;i:10109;i:1;i:10111;i:2;i:10137;i:3;i:10220;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/whole-wheat-sourdough-braids4foodgawker.jpg
+image: /wp-content/uploads/2013/07/whole-wheat-sourdough-braids4foodgawker.jpg
 categories:
   - blog
 tags:

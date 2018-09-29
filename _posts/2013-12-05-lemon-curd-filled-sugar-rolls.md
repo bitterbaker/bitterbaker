@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:49632;i:1;i:50584;i:2;i:52896;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/10/lemon-curd-filled-sugar-rolls1foodgawker.jpg
+image: /wp-content/uploads/2013/10/lemon-curd-filled-sugar-rolls1foodgawker.jpg
 categories:
   - blog
 tags:

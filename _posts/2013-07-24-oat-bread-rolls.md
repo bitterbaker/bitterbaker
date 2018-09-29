@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1624
 permalink: /oat-bread-rolls/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/oat-bread-dinner-rolls7foodgawker.jpg
+image: /wp-content/uploads/2013/07/oat-bread-dinner-rolls7foodgawker.jpg
 categories:
   - recipes
 ---

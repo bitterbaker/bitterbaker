@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1211
 permalink: /baguettes-with-air-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/03/baguettes-with-air2-624x414.jpg
+image: /wp-content/uploads/2013/03/baguettes-with-air2-624x414.jpg
 categories:
   - recipes
 ---

@@ -12,7 +12,7 @@ openid_comments:
   - 'a:4:{i:0;i:4776;i:1;i:4817;i:2;i:4920;i:3;i:5936;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/05/rosemary-sweet-onion-and-black-pepper-grissinis1foodgawker-624x625.jpg
+image: /wp-content/uploads/2013/05/rosemary-sweet-onion-and-black-pepper-grissinis1foodgawker-624x625.jpg
 categories:
   - blog
 tags:

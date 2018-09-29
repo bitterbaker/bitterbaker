@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=339
 permalink: /rosetta-rolls/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/poppyseeds-624x939.jpg
+image: /wp-content/uploads/2013/02/poppyseeds-624x939.jpg
 categories:
   - recipes
 ---

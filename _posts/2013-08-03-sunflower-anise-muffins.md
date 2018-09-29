@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1674
 permalink: /sunflower-anise-muffins/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/sunflower-anise-sourdough-muffins6foodgawker.jpg
+image: /wp-content/uploads/2013/07/sunflower-anise-sourdough-muffins6foodgawker.jpg
 categories:
   - recipes
 ---

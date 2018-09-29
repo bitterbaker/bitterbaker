@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1176
 permalink: /whole-wheat-clover-rolls/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/wholewheat-clover-roll3foodgawker-624x631.jpg
+image: /wp-content/uploads/2013/02/wholewheat-clover-roll3foodgawker-624x631.jpg
 categories:
   - recipes
 ---

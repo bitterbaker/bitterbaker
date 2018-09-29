@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=213
 permalink: /cheat-sheet-how-to-make-your-wheat-starter-from-scratch/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/wheatstarter24h-624x414.jpg
+image: /wp-content/uploads/2013/01/wheatstarter24h-624x414.jpg
 categories:
   - blog
   - Sourdough Starters

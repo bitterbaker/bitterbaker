@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=789
 permalink: /how-to-make-monkey-bread-muffins/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/pizzamonkeymuffin1-624x414.jpg
+image: /wp-content/uploads/2013/02/pizzamonkeymuffin1-624x414.jpg
 categories:
   - blog
   - Easy Style It

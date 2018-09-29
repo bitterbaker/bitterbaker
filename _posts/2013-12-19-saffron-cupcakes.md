@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1897
 permalink: /saffron-cupcakes/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/12/saffron-cupcakes-lingonberry-frosting2foodgawker.jpg
+image: /wp-content/uploads/2013/12/saffron-cupcakes-lingonberry-frosting2foodgawker.jpg
 categories:
   - recipes
 ---

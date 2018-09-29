@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1488
 permalink: /quinoa-sourdough-crisps/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/05/quinoa-and-caraway-healthy-sourdough-crispbread2foodgawker.jpg
+image: /wp-content/uploads/2013/05/quinoa-and-caraway-healthy-sourdough-crispbread2foodgawker.jpg
 categories:
   - recipes
 ---

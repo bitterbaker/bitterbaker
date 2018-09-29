@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1852
 permalink: /coffee-ice-cream-blackberry-meringue-cake/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/10/coffee-icrecream-blackberry-meringue-cake5foodgawker.jpg
+image: /wp-content/uploads/2013/10/coffee-icrecream-blackberry-meringue-cake5foodgawker.jpg
 categories:
   - recipes
 ---

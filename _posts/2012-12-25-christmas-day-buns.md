@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=43
 permalink: /christmas-day-buns/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/normalbuns-624x414.jpg
+image: /wp-content/uploads/2013/02/normalbuns-624x414.jpg
 categories:
   - blog
 tags:

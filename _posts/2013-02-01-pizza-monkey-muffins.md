@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=795
 permalink: /pizza-monkey-muffins/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/pizzamonkeymuffin3-624x414.jpg
+image: /wp-content/uploads/2013/02/pizzamonkeymuffin3-624x414.jpg
 categories:
   - recipes
 ---

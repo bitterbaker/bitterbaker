@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1609
 permalink: /white-sourdough-loaf/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/sourdough-white-loaf5foodgawker.jpg
+image: /wp-content/uploads/2013/07/sourdough-white-loaf5foodgawker.jpg
 categories:
   - recipes
 ---

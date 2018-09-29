@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1280
 permalink: /rosemary-cheese-crackers/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/03/rosemary-goat-cheese-crackers4-624x414.jpg
+image: /wp-content/uploads/2013/03/rosemary-goat-cheese-crackers4-624x414.jpg
 categories:
   - recipes
 ---

@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:14641;i:1;i:15276;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/caraway-anise-fennel-whole-wheat-bread-cakes4foodgawker.jpg
+image: /wp-content/uploads/2013/07/caraway-anise-fennel-whole-wheat-bread-cakes4foodgawker.jpg
 categories:
   - blog
 tags:

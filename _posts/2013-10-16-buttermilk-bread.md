@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1639
 permalink: /buttermilk-bread/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/easy-buttermilk-loaf-with-nuts-and-seeds6foodgawker.jpg
+image: /wp-content/uploads/2013/07/easy-buttermilk-loaf-with-nuts-and-seeds6foodgawker.jpg
 categories:
   - recipes
 ---

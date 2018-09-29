@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:8:{i:0;i:15504;i:1;i:15507;i:2;i:15518;i:3;i:15571;i:4;i:15661;i:5;i:15697;i:6;i:16385;i:7;i:23245;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/08/saffron-almond-sourdough-crackers4foodgawker.jpg
+image: /wp-content/uploads/2013/08/saffron-almond-sourdough-crackers4foodgawker.jpg
 categories:
   - blog
 tags:

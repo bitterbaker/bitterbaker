@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=358
 permalink: /roll-a-rosetta/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/poppyseeds-624x939.jpg
+image: /wp-content/uploads/2013/02/poppyseeds-624x939.jpg
 categories:
   - blog
   - Easy Style It

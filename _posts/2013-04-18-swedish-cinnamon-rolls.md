@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1205
 permalink: /swedish-cinnamon-rolls/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/03/swedish-cinnamon-buns5-624x939.jpg
+image: /wp-content/uploads/2013/03/swedish-cinnamon-buns5-624x939.jpg
 categories:
   - recipes
 ---

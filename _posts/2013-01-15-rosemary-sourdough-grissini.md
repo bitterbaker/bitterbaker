@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/rosemary.jpg
+image: /wp-content/uploads/2013/02/rosemary.jpg
 categories:
   - blog
 tags:

@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:2:{i:0;i:54917;i:1;i:55003;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/10/coconut-cilantro-spelt-bread1foodgawker.jpg
+image: /wp-content/uploads/2013/10/coconut-cilantro-spelt-bread1foodgawker.jpg
 categories:
   - blog
 tags:

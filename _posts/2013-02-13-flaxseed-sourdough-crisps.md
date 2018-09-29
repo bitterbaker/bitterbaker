@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=908
 permalink: /flaxseed-sourdough-crisps/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/heartshaped-sourdough-crispbread2-624x414.jpg
+image: /wp-content/uploads/2013/02/heartshaped-sourdough-crispbread2-624x414.jpg
 categories:
   - recipes
 ---

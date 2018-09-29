@@ -12,7 +12,7 @@ openid_comments:
   - 'a:4:{i:0;i:2559;i:1;i:2607;i:2;i:2647;i:3;i:2672;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/05/quinoa-and-caraway-healthy-sourdough-crispbread2foodgawker.jpg
+image: /wp-content/uploads/2013/05/quinoa-and-caraway-healthy-sourdough-crispbread2foodgawker.jpg
 categories:
   - blog
 tags:

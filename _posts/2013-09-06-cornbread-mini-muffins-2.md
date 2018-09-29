@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1730
 permalink: /cornbread-mini-muffins-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/08/cornbread-mini-muffins4foodgawker.jpg
+image: /wp-content/uploads/2013/08/cornbread-mini-muffins4foodgawker.jpg
 categories:
   - recipes
 ---

@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:591;i:1;i:596;i:2;i:615;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/03/mini-sourdough-ciabatta1-624x414.jpg
+image: /wp-content/uploads/2013/03/mini-sourdough-ciabatta1-624x414.jpg
 categories:
   - blog
 tags:

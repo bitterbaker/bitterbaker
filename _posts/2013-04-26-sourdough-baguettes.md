@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1265
 permalink: /sourdough-baguettes/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/03/white-sourdough-baguettes1-624x414.jpg
+image: /wp-content/uploads/2013/03/white-sourdough-baguettes1-624x414.jpg
 categories:
   - recipes
 ---

@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=155
 permalink: /my-garlic-bread/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/muffin-tops.jpg
+image: /wp-content/uploads/2013/02/muffin-tops.jpg
 categories:
   - recipes
 ---

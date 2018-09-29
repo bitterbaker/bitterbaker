@@ -10,7 +10,7 @@ xcp_optin_post:
   - ""
 openid_comments:
   - 'a:3:{i:0;i:37479;i:1;i:38424;i:2;i:38768;}'
-image: {{ site.baseurl }}/wp-content/uploads/2013/10/bobs-red-mill-rye-onion-bread5foodgawker.jpg
+image: /wp-content/uploads/2013/10/bobs-red-mill-rye-onion-bread5foodgawker.jpg
 categories:
   - blog
 tags:

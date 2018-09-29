@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=240
 permalink: /what-a-poolish-should-look-like/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/poolish-624x414.jpg
+image: /wp-content/uploads/2013/01/poolish-624x414.jpg
 categories:
   - blog
   - Sourdough Starters

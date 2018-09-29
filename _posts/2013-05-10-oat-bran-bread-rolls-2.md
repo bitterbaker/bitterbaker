@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1434
 permalink: /oat-bran-bread-rolls-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/oat-bran-bread-squares4foodgawker-624x623.jpg
+image: /wp-content/uploads/2013/04/oat-bran-bread-squares4foodgawker-624x623.jpg
 categories:
   - recipes
 ---

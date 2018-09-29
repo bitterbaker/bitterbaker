@@ -12,7 +12,7 @@ openid_comments:
   - 'a:6:{i:0;i:11383;i:1;i:11501;i:2;i:11990;i:3;i:12026;i:4;i:12035;i:5;i:12309;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/07/sunflower-anise-sourdough-muffins6foodgawker.jpg
+image: /wp-content/uploads/2013/07/sunflower-anise-sourdough-muffins6foodgawker.jpg
 categories:
   - blog
 tags:

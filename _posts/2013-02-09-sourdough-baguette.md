@@ -12,7 +12,7 @@ openid_comments:
   - 'a:2:{i:0;i:321;i:1;i:331;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/sourdough-baguette-recipe-2-624x399.jpg
+image: /wp-content/uploads/2013/02/sourdough-baguette-recipe-2-624x399.jpg
 categories:
   - blog
 tags:

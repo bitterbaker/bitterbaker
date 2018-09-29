@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1185
 permalink: /apple-cider-rosetta-rolls-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/applecider-rosetta-rolls2foodgawjer-624x632.jpg
+image: /wp-content/uploads/2013/02/applecider-rosetta-rolls2foodgawjer-624x632.jpg
 categories:
   - recipes
 ---

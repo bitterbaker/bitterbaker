@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1429
 permalink: /five-cheese-pizza-bread/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/five-cheese-pizza-bread3foodgawker-624x632.jpg
+image: /wp-content/uploads/2013/04/five-cheese-pizza-bread3foodgawker-624x632.jpg
 categories:
   - recipes
 ---

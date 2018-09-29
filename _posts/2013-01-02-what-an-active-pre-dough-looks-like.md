@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=238
 permalink: /what-an-active-pre-dough-looks-like/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/activepredough-624x414.jpg
+image: /wp-content/uploads/2013/01/activepredough-624x414.jpg
 categories:
   - blog
   - Sourdough Starters

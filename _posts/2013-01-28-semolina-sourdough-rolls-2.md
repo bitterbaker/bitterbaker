@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=725
 permalink: /semolina-sourdough-rolls-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/semolinasourdoughroll1.jpg
+image: /wp-content/uploads/2013/01/semolinasourdoughroll1.jpg
 categories:
   - recipes
 ---

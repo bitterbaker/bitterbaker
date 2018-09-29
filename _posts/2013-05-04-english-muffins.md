@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1423
 permalink: /english-muffins/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/english-muffins4foodgawker-624x625.jpg
+image: /wp-content/uploads/2013/04/english-muffins4foodgawker-624x625.jpg
 categories:
   - recipes
 ---

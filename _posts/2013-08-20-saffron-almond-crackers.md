@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1700
 permalink: /saffron-almond-crackers/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/08/saffron-almond-sourdough-crackers4foodgawker.jpg
+image: /wp-content/uploads/2013/08/saffron-almond-sourdough-crackers4foodgawker.jpg
 categories:
   - recipes
 ---

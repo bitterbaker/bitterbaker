@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=215
 permalink: /how-to-make-your-own-rye-sourdough-starter/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/01/ryestep4-624x414.jpg
+image: /wp-content/uploads/2013/01/ryestep4-624x414.jpg
 categories:
   - blog
   - Sourdough Starters

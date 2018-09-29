@@ -10,7 +10,7 @@ openid_comments:
   - 'a:1:{i:0;i:73;}'
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/flaxseedbaguette-624x414.jpg
+image: /wp-content/uploads/2013/02/flaxseedbaguette-624x414.jpg
 categories:
   - blog
 tags:

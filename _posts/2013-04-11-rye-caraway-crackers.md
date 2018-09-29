@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1299
 permalink: /rye-caraway-crackers/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/bobs-red-mill-rye-crackers2foodgawker-624x626.jpg
+image: /wp-content/uploads/2013/04/bobs-red-mill-rye-crackers2foodgawker-624x626.jpg
 categories:
   - recipes
 ---

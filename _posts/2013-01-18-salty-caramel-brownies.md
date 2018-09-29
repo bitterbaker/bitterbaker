@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=544
 permalink: /salty-caramel-brownies/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/brownie3.jpg
+image: /wp-content/uploads/2013/02/brownie3.jpg
 categories:
   - recipes
 ---

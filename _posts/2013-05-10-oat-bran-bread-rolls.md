@@ -12,7 +12,7 @@ openid_comments:
   - 'a:1:{i:0;i:1798;}'
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/oat-bran-bread-squares4foodgawker-624x623.jpg
+image: /wp-content/uploads/2013/04/oat-bran-bread-squares4foodgawker-624x623.jpg
 categories:
   - blog
 tags:

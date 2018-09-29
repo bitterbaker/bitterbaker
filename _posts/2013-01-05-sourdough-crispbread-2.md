@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=367
 permalink: /sourdough-crispbread-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/crispbread-624x414.jpg
+image: /wp-content/uploads/2013/02/crispbread-624x414.jpg
 categories:
   - recipes
 ---

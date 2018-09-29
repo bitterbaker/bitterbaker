@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=879
 permalink: /ciabatta-with-sea-salt-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/ciabattarecipe.jpg
+image: /wp-content/uploads/2013/02/ciabattarecipe.jpg
 categories:
   - recipes
 ---

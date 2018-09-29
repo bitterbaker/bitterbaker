@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=1449
 permalink: /gerstenbrot-blackened-sourdough/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/04/gerstenbrot-dark-flamed-sourdough-bread4foodgawker-624x624.jpg
+image: /wp-content/uploads/2013/04/gerstenbrot-dark-flamed-sourdough-bread4foodgawker-624x624.jpg
 categories:
   - recipes
 ---

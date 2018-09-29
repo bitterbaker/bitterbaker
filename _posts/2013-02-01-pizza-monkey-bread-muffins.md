@@ -12,7 +12,7 @@ xcp_optin_post:
   - ""
 featured:
   - "1"
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/pizzamonkeymuffin3-624x414.jpg
+image: /wp-content/uploads/2013/02/pizzamonkeymuffin3-624x414.jpg
 categories:
   - blog
 tags:

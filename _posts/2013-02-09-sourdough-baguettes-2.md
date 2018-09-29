@@ -8,7 +8,7 @@ guid: http://bitterbaker.com/?p=888
 permalink: /sourdough-baguettes-2/
 xcp_optin_post:
   - ""
-image: {{ site.baseurl }}/wp-content/uploads/2013/02/sourdough-baguette-recipe-2-624x399.jpg
+image: /wp-content/uploads/2013/02/sourdough-baguette-recipe-2-624x399.jpg
 categories:
   - recipes
 ---
