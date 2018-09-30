@@ -66,22 +66,13 @@
 .post-link-inner {
     display: block;
 
-    padding: 10px;
-    padding-bottom: 4px;
-    padding-top: 4px;
-    background: #f9f9f988; //background: #f9f9f900; TODO: add active class
+    padding: 13px;
 
-    background: #fff; //background: #f9f9f900; TODO: add active class
+    background: #fff;
 
     height: 25%;
     width: 75%;
-    text-align: center;
 }
-
-.post-link-inner:hover {
-    background: #f9f9f9b3;
-}
-
 
 
 // Leaves / snake shapes
@@ -106,9 +97,9 @@
 }
 
 .post-list > li:nth-child(even) .post-link-inner {
-    border-radius: 0 0 24px 0;
+    border-radius: 0 0 50px 0;
 }
 
 .post-list > li:nth-child(odd) .post-link-inner {
-    border-radius: 0 24px 0 0;
+    border-radius: 0 50px 0 0;
 }
