@@ -18,6 +18,14 @@
   src: url("{{ '/assets/fonts/Londrina_Outline/LondrinaOutline-Regular.ttf' | relative_url }}") format("opentype");
 }
 
+
+
+
+@font-face {
+  font-family: "Clicker Script";
+  src: url("{{ '/assets/fonts/Clicker_Script/ClickerScript-Regular.ttf' | relative_url }}") format("opentype");
+}
+
 .site-title {
     font-family: "Waiting for the Sunrise";
     font-size: 62px;
@@ -32,29 +40,19 @@
     margin-bottom: 0px;
 }
 
-.post-list > li:nth-child(even) > .post-link-container {
-    border-radius: 200px 0px;
-}
-
-.post-list > li:nth-child(odd) > .post-link-container {
-    border-radius: 0px 200px;
-}
 
 .post-link-container {
     background-size: cover;
     background-position: left center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .post-link {
-    // font-family: sans-serif; // TODO that curly font
+    font-family: "Clicker Script"; // TODO that curly font
     display: inline-block;
     height: 100%;
     width: 100%;
     padding: 0px;
-    padding-top: 100px;
-    padding-bottom: 150px;
-    //background: #f9f9f988;
     font-size: 18px;
     color: #3c3c3c;
 }
@@ -76,3 +74,25 @@
     background: #f9f9f9b3;
 }
 
+
+
+// Leaves / snake shapes
+
+.post-list > li:nth-child(even) > .post-link-container {
+    border-radius: 200px 0px;
+}
+
+.post-list > li:nth-child(odd) > .post-link-container {
+    border-radius: 0px 200px;
+}
+
+
+.post-list > li:nth-child(even) .post-link {
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.post-list > li:nth-child(odd) .post-link {
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
