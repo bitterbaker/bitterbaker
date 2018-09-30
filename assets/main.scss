@@ -48,12 +48,12 @@
 }
 
 .post-link {
-    font-family: "Clicker Script"; // TODO that curly font
+    font-family: "Waiting for the Sunrise";
     display: inline-block;
     height: 100%;
     width: 100%;
     padding: 0px;
-    font-size: 18px;
+    font-size: 32px;
     color: #3c3c3c;
 }
 
@@ -64,10 +64,18 @@
 }
 
 .post-link-inner {
+    display: block;
+
     padding: 10px;
     padding-bottom: 4px;
     padding-top: 4px;
     background: #f9f9f988; //background: #f9f9f900; TODO: add active class
+
+    background: #fff; //background: #f9f9f900; TODO: add active class
+
+    height: 25%;
+    width: 75%;
+    text-align: center;
 }
 
 .post-link-inner:hover {
@@ -95,4 +103,12 @@
 .post-list > li:nth-child(odd) .post-link {
     padding-top: 50px;
     padding-bottom: 200px;
+}
+
+.post-list > li:nth-child(even) .post-link-inner {
+    border-radius: 0 0 24px 0;
+}
+
+.post-list > li:nth-child(odd) .post-link-inner {
+    border-radius: 0 24px 0 0;
 }
