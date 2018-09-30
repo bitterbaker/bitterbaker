@@ -51,7 +51,7 @@
     font-family: "Waiting for the Sunrise";
     display: inline-block;
     height: 100%;
-    width: 50%;
+    width: 60%;
     padding: 0px;
     font-size: 32px;
     color: #3c3c3c;
@@ -64,39 +64,18 @@
 
 .post-link-inner {
     display: block;
-
     padding: 13px;
-
     background: #fff;
-
     height: 25%;
     width: 75%;
+    transition: 0.3s;
 }
 
 
 // Hover
 
-@keyframes example {
-    from {
-        padding-left: 0%;
-    }
-    to {
-        padding-left: 25%;
-    }
-}
-
-.post-link-container .post-link-inner {
-    padding-left: 0%;
-    animation-name: example;
-    animation-duration: 1s;
-    animation-direction: reverse;
-}
-
 .post-link-container:hover .post-link-inner {
-    padding-left: 25%;
-    animation-name: example;
-    animation-duration: 1s;
-    animation-direction: normal;
+    padding: 10% 10% 10% 0%;
 }
 
 
