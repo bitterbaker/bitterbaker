@@ -32,18 +32,18 @@
     margin-bottom: 0px;
 }
 
+.post-list > li:nth-child(even) > .post-link-container {
+    border-radius: 200px 0px;
+}
+
+.post-list > li:nth-child(odd) > .post-link-container {
+    border-radius: 0px 200px;
+}
+
 .post-link-container {
     background-size: cover;
     background-position: left center;
     margin-bottom: 100px;
-}
-
-.post-link-container:nth-child(even) {
-    border-radius: 200px 0px;
-}
-
-.post-link-container:nth-child(odd) {
-    border-radius: 0px 200px;
 }
 
 .post-link {
