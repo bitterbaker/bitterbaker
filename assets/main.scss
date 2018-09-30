@@ -47,11 +47,11 @@
     margin-bottom: 50px;
 }
 
-.post-link {
+.post-link, a.post-link:visited {
     font-family: "Waiting for the Sunrise";
     display: inline-block;
     height: 100%;
-    width: 100%;
+    width: 50%;
     padding: 0px;
     font-size: 32px;
     color: #3c3c3c;
@@ -60,7 +60,6 @@
 .post-link:hover {
     text-decoration: none;
     background-blend-mode: normal;
-    background: #f9f9f900;
 }
 
 .post-link-inner {
@@ -72,6 +71,32 @@
 
     height: 25%;
     width: 75%;
+}
+
+
+// Hover
+
+@keyframes example {
+    from {
+        padding-left: 0%;
+    }
+    to {
+        padding-left: 25%;
+    }
+}
+
+.post-link-container .post-link-inner {
+    padding-left: 0%;
+    animation-name: example;
+    animation-duration: 1s;
+    animation-direction: reverse;
+}
+
+.post-link-container:hover .post-link-inner {
+    padding-left: 25%;
+    animation-name: example;
+    animation-duration: 1s;
+    animation-direction: normal;
 }
 
 
@@ -87,13 +112,13 @@
 
 
 .post-list > li:nth-child(even) .post-link {
-    padding-top: 200px;
-    padding-bottom: 50px;
+    margin-top: 200px;
+    margin-bottom: 50px;
 }
 
 .post-list > li:nth-child(odd) .post-link {
-    padding-top: 50px;
-    padding-bottom: 200px;
+    margin-top: 50px;
+    margin-bottom: 200px;
 }
 
 .post-list > li:nth-child(even) .post-link-inner {
